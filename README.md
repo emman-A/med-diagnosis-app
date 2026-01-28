@@ -182,11 +182,10 @@ export default api;
 ---
 
 ## 👨‍💻 Author
-
+Emmanuel Acheampong
 Kwabena Asare Boström  
-Elikem Hamenoo
-Nana Owusu
-Full Stack Developer | Backend Engineer | Healthcare Technology Enthusiast 🌟
+
+
 
 ---
 
