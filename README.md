@@ -182,7 +182,8 @@ export default api;
 ---
 
 ## 👨‍💻 Author
-Emmanuel Acheampong
+Emmanuel Acheampong,
+
 Kwabena Asare Boström  
 
 
